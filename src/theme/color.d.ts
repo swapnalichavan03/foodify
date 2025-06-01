@@ -1,0 +1,78 @@
+export interface colorsProps  {
+    primary: {
+        light: string,
+        main: string,
+        dark: string,
+    },
+    secondary: {
+        light: string,
+        main: string,
+        dark: string,
+    },
+    error: {
+        light: string,
+        main: string,
+        dark: string,
+    },
+    warning: {
+        light: string,
+        main: string,
+        dark: string,
+    },
+    info: {
+        light: string,
+        main: string,
+        dark: string,
+    },
+    success: {
+        light: string,
+        main: string,
+        dark: string,
+    },
+    grey: {
+        50: string,
+        100: string,
+        200: string,
+        300: string,
+        400: string,
+        500: string,
+        600: string,
+        700: string,
+        800: string,
+        900: string,
+    },
+    common: {
+        white: string,
+        champagne: string,
+        naviconbg: string,
+        mapblue: string,
+        transparent: string,
+        black: string,
+        backdrop: string,
+        modal: string,
+        avatar: string,
+    },
+    text: {
+        primary: string,
+        secondary: string,
+        error: string,
+        warning: string,
+        info: string,
+        success: string,
+    },
+    input: {
+        text:  string,
+        placeholder: string,
+        label: string,
+        focus: string,
+        disable: string,
+        border: string,
+        error: string,
+    },
+    neturalcolour: {
+        gray_1: string,
+        gray_2: string,
+        gray_3: string,
+        gray_4: string,
+    }
+}

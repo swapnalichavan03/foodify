@@ -1,0 +1,4 @@
+export const likeicon = `
+<svg width="8" height="9" viewBox="0 0 8 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 8.56H8V0.56H0V8.56Z" fill="#797979"/>
+</svg>`
